@@ -2,7 +2,10 @@
 <project version="4">
   <component name="AndroidLayouts">
     <shared>
-      <config />
+      <config>
+        <device id="pixel_2" />
+        <device id="Nexus 5X" />
+      </config>
     </shared>
   </component>
   <component name="AndroidLogFilters">
@@ -23,19 +26,34 @@
         <repository>Google,Android Repository</repository>
       </library-update>
     </library-updates>
-    <last-search-timestamp>1556647909848</last-search-timestamp>
+    <last-search-timestamp>1557833764065</last-search-timestamp>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8170d21-398d-433e-9cfe-5cb41ac8425b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__Users_Sahil_MrDamaged__Documents_GitHub_Attendance_App_zBarScannerActivity_libs_zbar_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Attendance-App.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__Users_Sahil_MrDamaged__Documents_Development_Projects_AttendanceApp_master_zBarScannerActivity_libs_zbar_jar_unspecified_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___E__Development_Android_Apps_AttendanceApp_zBarScannerActivity_libs_zbar_jar_unspecified_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_25_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_25_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_25_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_25_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_25_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_25_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_25_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_25_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_25_4_0.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AttendanceApp-master.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/attendanceApp/attendanceApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/attendanceApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/drawable-hdpi/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/drawable-hdpi/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/drawable-hdpi/success.png" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/drawable-hdpi/success.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_create_user.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_create_user.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_splash_screen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_splash_screen.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/signup.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/signup.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/user_success.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/user_success.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zBarScannerActivity/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/zBarScannerActivity/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zBarScannerActivity/zBarScannerActivity.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zBarScannerActivity/zBarScannerActivity.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -141,6 +159,9 @@
       </state>
     </system>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Attendance-App" />
+  </component>
   <component name="FileEditorManager">
     <leaf />
   </component>
@@ -156,10 +177,15 @@
         <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/MainActivity.java" />
         <option value="$PROJECT_DIR$/attendanceApp/build.gradle" />
         <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/SplashScreen.java" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_splash_screen.xml" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/signup.xml" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/user_success.xml" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_login.xml" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_create_user.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -171,6 +197,7 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Production'; set:Production; class com.intellij.psi.search.scope.ProjectProductionScope">
           <expand>
@@ -187,23 +214,38 @@
               <item name="Attendance-App" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
+            <path>
+              <item name="Attendance-App" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="attendanceApp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Attendance-App" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="device.picker.selection" value="Pixel_2" />
-    <property name="project.structure.last.edited" value="Suggestions" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Default Config" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
     <option name="LAST_EDITED_BUILD_TYPE" value="release" />
   </component>
   <component name="RunDashboard">
@@ -241,7 +283,7 @@
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
       <option name="PREFERRED_AVD" value="" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
@@ -305,24 +347,24 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Captures" order="0" sideWeight="0.50084037" side_tool="true" weight="0.32980332" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20726173" />
       <window_info id="Structure" order="2" side_tool="true" />
-      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" weight="0.32980332" />
       <window_info id="Image Layers" order="4" />
       <window_info id="Designer" order="5" />
-      <window_info id="Resources Explorer" order="6" />
+      <window_info id="Resources Explorer" order="6" sideWeight="0.49915966" weight="0.32980332" />
       <window_info id="Capture Tool" order="7" />
-      <window_info id="Favorites" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49924356" weight="0.32941177" />
+      <window_info id="Favorites" order="8" side_tool="true" weight="0.32980332" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.4977307" weight="0.32941177" />
       <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.49924356" weight="0.32941177" />
       <window_info anchor="bottom" id="TODO" order="2" sideWeight="0.49924356" weight="0.32941177" />
-      <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" sideWeight="0.49848714" weight="0.32941177" />
+      <window_info anchor="bottom" id="Android Profiler" order="3" sideWeight="0.49621785" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="4" />
       <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.49848714" weight="0.32941177" />
-      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.5030257" side_tool="true" weight="0.39159665" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50378215" side_tool="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32941177" />
       <window_info anchor="bottom" id="Build" order="9" sideWeight="0.4969743" weight="0.39159665" />
       <window_info anchor="bottom" id="Find" order="10" sideWeight="0.49924356" weight="0.32941177" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
@@ -332,7 +374,48 @@
       <window_info anchor="right" id="Flutter Inspector" order="4" />
       <window_info anchor="right" id="Flutter Outline" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Preview" order="7" weight="0.32980332" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/zBarScannerActivity/src/main/java/com/dm/zbar/android/scanner/CameraPreview.java">
@@ -377,6 +460,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/zBarScannerActivity/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
@@ -385,23 +469,19 @@
           </folding>
         </state>
       </provider>
-      <provider editor-type-id="android-manifest" />
     </entry>
     <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
-      <provider editor-type-id="android-manifest" />
     </entry>
     <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-ldpi/ic_launcher.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-hdpi/ic_launcher.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/drawable-hdpi/about.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/MainActivity.java">
@@ -411,15 +491,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/drawable-hdpi/about.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/menu/main.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/values-w820dp/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/SplashScreen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="23">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_splash_screen.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/signup.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/signup_success.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/user_success.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_login.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_create_user.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zBarScannerActivity/src/main/res/drawable-hdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>

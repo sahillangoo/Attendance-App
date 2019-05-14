@@ -3,24 +3,24 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_gravity="center"
-    android:background="#000000"
+    android:background="#EEEEEE"
     android:gravity="center"
-    android:orientation="vertical" >
+    android:orientation="vertical">
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="369dp"
         android:src="@drawable/success" />
 
     <Button
         android:id="@+id/login"
-        android:layout_width="match_parent"
+        android:layout_width="160dp"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:background="#f26522"
+        android:background="#009688"
         android:fontFamily="sans"
         android:onClick="login"
-        android:text="LOGIN"
+        android:text="LOG IN"
         android:textColor="#ffffff" />
 
 </LinearLayout>
