@@ -1,17 +1,17 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:background="@drawable/sign_in"
-    android:orientation="vertical" >
+    android:background="@drawable/menu"
+    android:orientation="vertical">
 
     <LinearLayout
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="30dp"
         android:layout_marginTop="40dp"
+        android:layout_marginBottom="30dp"
         android:orientation="vertical"
         android:paddingLeft="5dp"
-        android:paddingRight="5dp" >
+        android:paddingRight="5dp">
 
         <TextView
             android:id="@+id/banner1"
@@ -20,8 +20,8 @@
             android:layout_gravity="center"
             android:gravity="center"
             android:text="LAB ATTENDANCE"
-            android:textColor="#FFFFFF"
-            android:textSize="35sp" />
+            android:textColor="#000000"
+            android:textSize="36sp" />
 
         <TextView
             android:id="@+id/banner2"
@@ -31,22 +31,22 @@
             android:layout_marginTop="3dp"
             android:gravity="center"
             android:text="ATTENDANCE WITH EASE"
-            android:textColor="#9c9c9c"
+            android:textColor="#000000"
             android:textSize="18sp" />
     </LinearLayout>
 
     <ScrollView
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content" >
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
 
         <LinearLayout
-            android:layout_width="fill_parent"
-            android:layout_height="match_parent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:gravity="center"
             android:orientation="vertical"
             android:paddingLeft="20dp"
-            android:paddingRight="20dp" >
+            android:paddingRight="20dp">
 
 
             <TextView
@@ -54,9 +54,9 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:gravity="center"
-                android:text="\n\n\nThis app has been developed in the interest to present as a major project for the completion of degree."
-                android:textColor="#FFFFFF"
-                android:textSize="15sp" />
+                android:text="\n\n This App has been Developed in the interest to present as a Major Project for the Completion of Diploma in CSE."
+                android:textColor="#000000"
+                android:textSize="18sp" />
 
 
             <TextView
@@ -64,9 +64,20 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:gravity="center"
-                android:text="ABOUT DEVELOPERS\n"
-                android:textColor="#FFFFFF"
                 android:paddingTop="20dp"
+                android:text="ABOUT DEVELOPERS\n"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="3dp"
+                android:gravity="center"
+                android:text="Programmer : Syed Kaiser\n"
+                android:textColor="#000000"
                 android:textSize="18sp" />
 
             <TextView
@@ -75,9 +86,9 @@
                 android:layout_gravity="center"
                 android:layout_marginTop="3dp"
                 android:gravity="center"
-                android:text="Programmer : Aamir Amin Dar\n"
-                android:textColor="#9c9c9c"
-                android:textSize="22sp" />
+                android:text="UI/UX : Sahil Ahmed\n"
+                android:textColor="#000000"
+                android:textSize="18sp" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -85,19 +96,20 @@
                 android:layout_gravity="center"
                 android:layout_marginTop="3dp"
                 android:gravity="center"
-                android:text="Designer : Aasif Showkat Mattoo\n"
-                android:textColor="#9c9c9c"
-                android:textSize="22sp" />
+                android:text="Tester : Bisma Manzoor \n"
+                android:textColor="#000000"
+                android:textSize="18sp" />
 
             <TextView
+                android:id="@+id/textView"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="88dp"
                 android:layout_gravity="center"
                 android:layout_marginTop="3dp"
                 android:gravity="center"
-                android:text="Tester : Wajahat Hameed \n"
-                android:textColor="#9c9c9c"
-                android:textSize="22sp" />
+                android:text="Documentation : Sana Rafiq and Shaheen Manzoor \n\n\n"
+                android:textColor="#000000"
+                android:textSize="18sp" />
         </LinearLayout>
     </ScrollView>
 

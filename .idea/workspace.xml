@@ -30,29 +30,68 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8170d21-398d-433e-9cfe-5cb41ac8425b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-hdpi/ic_launcher_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-mdpi/ic_launcher_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-xhdpi/ic_launcher_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-xxhdpi/ic_launcher_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-xxxhdpi/ic_launcher_background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__Users_Sahil_MrDamaged__Documents_Development_Projects_AttendanceApp_master_zBarScannerActivity_libs_zbar_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___E__Development_Android_Apps_AttendanceApp_zBarScannerActivity_libs_zbar_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_25_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_25_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_25_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_25_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_25_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_25_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_25_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_25_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_25_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_25_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_25_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_25_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_25_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_25_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_25_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_25_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_25_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_25_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_25_4_0_aar.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/attendanceApp/attendanceApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/attendanceApp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/attendanceApp/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/ic_launcher-web.png" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/ic_launcher-web.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/drawable-hdpi/about.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/drawable-hdpi/attend.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/drawable-hdpi/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/drawable-hdpi/background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/drawable-hdpi/enlist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/drawable-hdpi/exit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/drawable-hdpi/sign_in.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/drawable-hdpi/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/drawable-hdpi/splash.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/drawable-hdpi/success.png" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/drawable-hdpi/success.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_create_user.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_create_user.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_login.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_splash_screen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_splash_screen.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_about_us.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_about_us.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_attendance.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_attendance.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_attendance_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_attendance_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_manage_classes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_manage_classes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/check_attendance.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/check_attendance.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/check_attendance_sem.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/check_attendance_sem.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/check_shortage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/check_shortage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/check_shortage_sem.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/check_shortage_sem.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/get_attendance.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/get_attendance.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/signup.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/signup.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/signup_success.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/signup_success.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/spinner_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/spinner_item.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/user_success.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/layout/user_success.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/values/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/res/values/ic_launcher_background.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zBarScannerActivity/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/zBarScannerActivity/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zBarScannerActivity/zBarScannerActivity.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zBarScannerActivity/zBarScannerActivity.iml" afterDir="false" />
     </list>
@@ -152,6 +191,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
@@ -175,17 +223,31 @@
         <option value="$PROJECT_DIR$/zBarScannerActivity/build.gradle" />
         <option value="$PROJECT_DIR$/attendanceApp/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/MainActivity.java" />
-        <option value="$PROJECT_DIR$/attendanceApp/build.gradle" />
         <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/SplashScreen.java" />
         <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_splash_screen.xml" />
-        <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/signup.xml" />
-        <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/user_success.xml" />
         <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_login.xml" />
         <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_create_user.xml" />
+        <option value="$PROJECT_DIR$/attendanceApp/build.gradle" />
+        <option value="$PROJECT_DIR$/zBarScannerActivity/src/main/java/com/dm/zbar/android/scanner/ZBarScannerActivity.java" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/signup_success.xml" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/signup.xml" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/get_attendance.xml" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/user_success.xml" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/check_shortage.xml" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/check_attendance.xml" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_attendance_menu.xml" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_attendance.xml" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/spinner_item.xml" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_about_us.xml" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/check_shortage_sem.xml" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/table_row.xml" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/check_attendance_sem.xml" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_manage_classes.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -196,8 +258,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Attendance-App" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Attendance-App" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Production'; set:Production; class com.intellij.psi.search.scope.ProjectProductionScope">
           <expand>
@@ -232,11 +304,16 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
+      <pane id="AndroidView" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="device.picker.selection" value="Pixel_2" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="device.picker.selection" value="bebf9ab90604" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -244,7 +321,8 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="PsdUISettings">
-    <option name="MODULE_TAB" value="Default Config" />
+    <option name="MODULE_TAB" value="Properties" />
+    <option name="BUILD_VARIANTS_TAB" value="Build Types" />
     <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
     <option name="LAST_EDITED_BUILD_TYPE" value="release" />
   </component>
@@ -287,7 +365,7 @@
       <option name="PREFERRED_AVD" value="" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="DEBUGGER_TYPE" value="Auto" />
+      <option name="DEBUGGER_TYPE" value="Java" />
       <Auto>
         <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
         <option name="SHOW_STATIC_VARS" value="true" />
@@ -332,8 +410,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556646318161</updated>
+      <workItem from="1557917537404" duration="1838000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1838000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -347,6 +429,45 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
+      <window_info id="Captures" order="0" sideWeight="0.50084037" side_tool="true" weight="0.32980332" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20726173" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" weight="0.32980332" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Resources Explorer" order="6" sideWeight="0.49915966" weight="0.32980332" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" weight="0.32980332" />
+      <window_info id="UI Designer" order="9" />
+      <window_info id="Learn" order="10" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.4977307" weight="0.32941177" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.49924356" weight="0.32941177" />
+      <window_info anchor="bottom" id="TODO" order="2" sideWeight="0.49924356" weight="0.32941177" />
+      <window_info anchor="bottom" id="Android Profiler" order="3" sideWeight="0.49621785" weight="0.32941177" />
+      <window_info anchor="bottom" id="Debug" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.49848714" weight="0.32941177" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50378215" side_tool="true" weight="0.39159665" />
+      <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32941177" />
+      <window_info anchor="bottom" id="Build" order="9" sideWeight="0.49621785" visible="true" weight="0.39159665" />
+      <window_info anchor="bottom" id="Find" order="10" sideWeight="0.49924356" weight="0.32941177" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Flutter Inspector" order="4" />
+      <window_info anchor="right" id="Flutter Outline" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Preview" order="7" weight="0.32980332" />
+      <window_info anchor="right" id="Maven" order="8" />
+      <window_info anchor="right" id="Palette" order="9" />
+      <window_info anchor="right" id="Ant Build" order="10" />
+      <window_info anchor="right" id="Database" order="11" />
+    </layout>
+    <layout-to-restore>
       <window_info id="Captures" order="0" sideWeight="0.50084037" side_tool="true" weight="0.32980332" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20726173" />
       <window_info id="Structure" order="2" side_tool="true" />
@@ -375,7 +496,10 @@
       <window_info anchor="right" id="Flutter Outline" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Preview" order="7" weight="0.32980332" />
-    </layout>
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -418,22 +542,8 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zBarScannerActivity/src/main/java/com/dm/zbar/android/scanner/CameraPreview.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2047">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/OnBarcode.AndroidBarcode/build.gradle">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zBarScannerActivity/src/main/java/com/dm/zbar/android/scanner/ZBarConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/zBarScannerActivity/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
@@ -442,25 +552,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/attendanceApp/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/zBarScannerActivity/src/main/java/com/dm/zbar/android/scanner/ZBarScannerActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-115">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zBarScannerActivity/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
@@ -469,14 +564,15 @@
           </folding>
         </state>
       </provider>
+      <provider editor-type-id="android-manifest" />
     </entry>
     <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
+      <provider editor-type-id="android-manifest" />
     </entry>
     <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-ldpi/ic_launcher.png">
       <provider selected="true" editor-type-id="images" />
@@ -494,12 +590,10 @@
     <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/drawable-hdpi/about.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/drawable-hdpi/about.png" />
     <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/menu/main.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/values-w820dp/dimens.xml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -517,32 +611,139 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_splash_screen.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-      <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/signup.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-      <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/signup_success.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-      <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/user_success.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-      <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_login.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-      <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_create_user.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-      <provider editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/zBarScannerActivity/src/main/res/drawable-hdpi/ic_launcher.png">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Attendance-App.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zBarScannerActivity/src/main/java/com/dm/zbar/android/scanner/ZBarScannerActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding>
+            <element signature="e#5180#5356#0" expanded="true" />
+            <element signature="e#5355#5356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zBarScannerActivity/src/main/java/com/dm/zbar/android/scanner/ZBarConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zBarScannerActivity/build/generated/source/buildConfig/debug/com/dm/zbar/android/scanner/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zBarScannerActivity/src/main/java/com/dm/zbar/android/scanner/CameraPreview.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/AboutUs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/spinner_item.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/table_row.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/user_success.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/signup_success.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/signup.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/get_attendance.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/check_shortage_sem.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/check_shortage.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/check_attendance.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_splash_screen.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_manage_classes.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/check_attendance_sem.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_login.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_create_user.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_attendance_menu.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_attendance.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_about_us.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="2616">
+          <caret line="109" column="31" selection-start-line="109" selection-start-column="31" selection-end-line="109" selection-end-column="31" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
   </component>
 </project>

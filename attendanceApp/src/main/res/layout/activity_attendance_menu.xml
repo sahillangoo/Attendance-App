@@ -1,17 +1,17 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:background="@drawable/sign_in"
-    android:orientation="vertical" >
+    android:background="@drawable/menu"
+    android:orientation="vertical">
 
     <LinearLayout
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="30dp"
         android:layout_marginTop="40dp"
+        android:layout_marginBottom="30dp"
         android:orientation="vertical"
         android:paddingLeft="5dp"
-        android:paddingRight="5dp" >
+        android:paddingRight="5dp">
 
         <TextView
             android:id="@+id/banner1"
@@ -20,7 +20,7 @@
             android:layout_gravity="center"
             android:gravity="center"
             android:text="LAB ATTENDANCE"
-            android:textColor="#FFFFFF"
+            android:textColor="#000000"
             android:textSize="35sp" />
 
         <TextView
@@ -31,7 +31,7 @@
             android:layout_marginTop="3dp"
             android:gravity="center"
             android:text="ATTENDANCE WITH EASE"
-            android:textColor="#9c9c9c"
+            android:textColor="#000000"
             android:textSize="18sp" />
     </LinearLayout>
 
@@ -42,14 +42,14 @@
         android:gravity="center"
         android:orientation="vertical"
         android:paddingLeft="20dp"
-        android:paddingRight="20dp" >
+        android:paddingRight="20dp">
 
         <Button
             android:id="@+id/doAttend"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
-            android:background="#00a651"
+            android:background="#009688"
             android:text="DO ATTENDANCE"
             android:textColor="#ffffff" />
 
@@ -60,7 +60,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
-            android:background="#f26522"
+            android:background="#009688"
             android:text="CHECK ATTENDANCE"
             android:textColor="#ffffff" />
 
@@ -69,7 +69,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
-            android:background="#ff344c"
+            android:background="#009688"
             android:text="SHORTAGE LISTS"
             android:textColor="#ffffff" />
 
@@ -78,7 +78,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
-            android:background="#00aeef"
+            android:background="#009688"
             android:text="MANAGE CLASSES"
             android:textColor="#ffffff" />
     </LinearLayout>

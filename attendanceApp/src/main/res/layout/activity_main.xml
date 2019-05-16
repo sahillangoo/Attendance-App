@@ -1,8 +1,8 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:background="@drawable/sign_in"
-    android:orientation="vertical" >
+    android:background="@drawable/menu"
+    android:orientation="vertical">
 
     <LinearLayout
         android:layout_width="fill_parent"
@@ -10,7 +10,7 @@
         android:layout_marginTop="40dp"
         android:orientation="vertical"
         android:paddingLeft="5dp"
-        android:paddingRight="5dp" >
+        android:paddingRight="5dp">
 
         <TextView
             android:id="@+id/banner1"
@@ -19,8 +19,8 @@
             android:layout_gravity="center"
             android:gravity="center"
             android:text="LAB ATTENDANCE"
-            android:textColor="#FFFFFF"
-            android:textSize="35sp" />
+            android:textColor="#000000"
+            android:textSize="36sp" />
 
         <TextView
             android:id="@+id/banner2"
@@ -30,64 +30,64 @@
             android:layout_marginTop="3dp"
             android:gravity="center"
             android:text="ATTENDANCE WITH EASE"
-            android:textColor="#9c9c9c"
+            android:textColor="#000000"
             android:textSize="18sp" />
     </LinearLayout>
 
     <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_marginTop="50dp" >
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp">
 
         <LinearLayout
             android:layout_width="fill_parent"
             android:layout_height="match_parent"
-            android:orientation="vertical" >
+            android:orientation="vertical">
 
             <LinearLayout
                 android:layout_width="fill_parent"
-                android:layout_height="match_parent"
+                android:layout_height="250dp"
                 android:layout_margin="5dp"
-                android:orientation="horizontal" >
+                android:orientation="horizontal">
 
                 <Button
                     android:id="@+id/signup"
                     android:layout_width="match_parent"
-                    android:layout_height="match_parent"
+                    android:layout_height="185dp"
                     android:layout_margin="15dp"
                     android:layout_weight="1"
-                    android:background="@drawable/register" />
+                    android:background="@drawable/menu1" />
 
                 <Button
                     android:id="@+id/attend"
                     android:layout_width="match_parent"
-                    android:layout_height="match_parent"
+                    android:layout_height="185dp"
                     android:layout_margin="15dp"
                     android:layout_weight="1"
-                    android:background="@drawable/attend" />
+                    android:background="@drawable/menu2" />
             </LinearLayout>
 
             <LinearLayout
                 android:layout_width="fill_parent"
-                android:layout_height="match_parent"
+                android:layout_height="250dp"
                 android:layout_margin="5dp"
-                android:orientation="horizontal" >
+                android:orientation="horizontal">
 
                 <Button
                     android:id="@+id/about"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
+                    android:layout_height="185dp"
                     android:layout_margin="15dp"
                     android:layout_weight="1"
-                    android:background="@drawable/about" />
+                    android:background="@drawable/menu3" />
 
                 <Button
                     android:id="@+id/exit"
                     android:layout_width="match_parent"
-                    android:layout_height="match_parent"
+                    android:layout_height="185dp"
                     android:layout_margin="15dp"
                     android:layout_weight="1"
-                    android:background="@drawable/exit" />
+                    android:background="@drawable/menu4" />
             </LinearLayout>
         </LinearLayout>
     </ScrollView>

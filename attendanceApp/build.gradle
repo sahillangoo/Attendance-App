@@ -5,12 +5,14 @@ android {
         config {
         }
     }
-    compileSdkVersion 26
-    buildToolsVersion '29.0.0 rc3'
+    compileSdkVersion 28
+    buildToolsVersion '28.0.3'
     defaultConfig {
-        applicationId "com.master.attendanceapp"
+        applicationId 'com.android.attendanceapp'
         minSdkVersion 26
-        targetSdkVersion 26
+        targetSdkVersion 28
+        versionCode 3
+        versionName "3.0"
     }
     buildTypes {
         release {

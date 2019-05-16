@@ -45,13 +45,23 @@
                                 <PersistentState>
                                   <option name="children">
                                     <map>
+                                      <entry key="backgroundImage">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="scalingPercent" value="160" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
                                       <entry key="foregroundImage">
                                         <value>
                                           <PersistentState>
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="scalingPercent" value="116" />
                                                 <entry key="trimmed" value="true" />
                                               </map>
                                             </option>
@@ -74,13 +84,8 @@
                                   </option>
                                   <option name="values">
                                     <map>
-                                      <entry key="backgroundAssetType" value="COLOR" />
-                                      <entry key="backgroundColor" value="ffffff" />
-                                      <entry key="foregroundImage" value="C:\Users\Sahil(MrDamaged)\Desktop\scanner_qr.png" />
-                                      <entry key="legacyIconShape" value="CIRCLE" />
-                                      <entry key="previewDensity" value="HIGH" />
-                                      <entry key="showGrid" value="true" />
-                                      <entry key="webIconShape" value="CIRCLE" />
+                                      <entry key="backgroundImage" value="C:\Users\Sahil(MrDamaged)\Pictures\icon\ic_material_product_icon_192px copy@2x.png" />
+                                      <entry key="foregroundImage" value="C:\Users\Sahil(MrDamaged)\Pictures\icon\ic_material_product_icon_192px copyxxxhdpi.png" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -136,6 +141,11 @@
                 </map>
               </option>
             </PersistentState>
+          </value>
+        </entry>
+        <entry key="vectorWizard">
+          <value>
+            <PersistentState />
           </value>
         </entry>
       </map>
