@@ -26,7 +26,7 @@ public class Signup extends Activity implements OnClickListener {
 	long lastID;
 	int Sem;
 	TextView banner1;
-	
+
 
 	int[] semesters = {1,2,3,4,5,6,7,8};
 	@Override
@@ -90,22 +90,22 @@ public class Signup extends Activity implements OnClickListener {
 			@Override
 			public void onClick(View arg0) {
 				// TODO Auto-generated method stub
-				etName.setText("John Adam");
-				etParent.setText("Adam Voges");
-				etReg.setText("IUST/BTECH/13/1234");
+				etName.setText("John Dove");
+				etParent.setText("Adam Dove");
+				etReg.setText("KGP/Diploma/16/1234");
 				etSem.setText("6");
 				etSection.setText("B");
-				etRoll.setText("57");
+				etRoll.setText("30");
 				etMob.setText("9596454545");
-				etGuard.setText("969797987");
-				etEmail.setText("master@gmail.com");
+				etGuard.setText("9969797987");
+				etEmail.setText("hello@gmail.com");
 			}
 		});
 
 		overridePendingTransition(R.anim.abc_fade_in,
 				R.anim.abc_fade_out);
 
-		
+
 	}
 
 
@@ -123,7 +123,7 @@ public class Signup extends Activity implements OnClickListener {
 		Mob = etMob.getText().toString();
 		Email = etEmail.getText().toString();
 		Guard = etGuard.getText().toString();
-		
+
 		boolean isWorking = true;
 		boolean Err = validateFields();
 
@@ -138,7 +138,7 @@ public class Signup extends Activity implements OnClickListener {
 
 				dbIO.closeDB();
 			} catch (Exception ex) {
-			
+
 				Toast.makeText(this, ex.toString(), Toast.LENGTH_SHORT)
 				.show();
 			} finally {
