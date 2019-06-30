@@ -1,4 +1,4 @@
-package com.master.attendanceapp;
+package com.kgp.attendanceapp;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -8,7 +8,6 @@ import android.graphics.Typeface;
 import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
-import android.view.ViewManager;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;

@@ -1,4 +1,4 @@
-package com.master.attendanceapp;
+package com.kgp.attendanceapp;
 
 //import net.sourceforge.zbar.Symbol;
 import android.app.Activity;

@@ -1,4 +1,4 @@
-package com.master.attendanceapp;
+package com.kgp.attendanceapp;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
@@ -122,7 +122,7 @@ public class CheckAttendanceBySem extends Activity
 
 					tvID = new TextView(CheckAttendanceBySem.this);
 					tvID.setText(ids[i]);
-					tvID.setTextColor(Color.WHITE);
+					tvID.setTextColor(Color.BLACK);
 					tvID.setTextSize(18);
 					tvID.setPadding(5, 5, 5, 5);
 					tvID.setGravity(Gravity.CENTER);
@@ -132,7 +132,7 @@ public class CheckAttendanceBySem extends Activity
 
 					tvName = new TextView(CheckAttendanceBySem.this);
 					tvName.setText(name[i]);
-					tvName.setTextColor(Color.WHITE);
+					tvName.setTextColor(Color.BLACK);
 					tvName.setTextSize(18);
 					tvName.setPadding(5, 5, 5, 5);
 					tvName.setGravity(Gravity.CENTER);
@@ -141,7 +141,7 @@ public class CheckAttendanceBySem extends Activity
 
 					tvReg = new TextView(CheckAttendanceBySem.this);
 					tvReg.setText(reg[i]);
-					tvReg.setTextColor(Color.WHITE);
+					tvReg.setTextColor(Color.BLACK);
 					tvReg.setPadding(5, 5, 5, 5);
 					tvReg.setGravity(Gravity.CENTER);
 					tvReg.setTextSize(18);
@@ -152,7 +152,7 @@ public class CheckAttendanceBySem extends Activity
 					tvPresent.setText(attend[i]);
 					tvPresent.setTypeface(calibri);
 					tvPresent.setGravity(Gravity.CENTER);
-					tvPresent.setTextColor(Color.WHITE);
+					tvPresent.setTextColor(Color.BLACK);
 					tvPresent.setPadding(5, 5, 5, 5);
 					tvPresent.setTextSize(18);
 					tr.addView(tvPresent);

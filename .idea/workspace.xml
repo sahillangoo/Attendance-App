@@ -6,103 +6,33 @@
     </shared>
   </component>
   <component name="AvailableLibraryUpdateStorage">
-    <library-updates>
-      <library-update>
-        <group-id>com.android.support</group-id>
-        <name>appcompat-v7</name>
-        <version>28.0.0</version>
-        <repository>Google,Android Repository</repository>
-      </library-update>
-      <library-update>
-        <group-id>com.android.support</group-id>
-        <name>support-v4</name>
-        <version>28.0.0</version>
-        <repository>Google,Android Repository</repository>
-      </library-update>
-    </library-updates>
-    <last-search-timestamp>1561402180596</last-search-timestamp>
+    <last-search-timestamp>1561888594954</last-search-timestamp>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc9b5172-99a2-408d-a3a4-452650b1ccbc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__Users_Sahil_MrDamaged__Documents_GitHub_Attendance_App_zBarScannerActivity_libs_zbar_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_28_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_28_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/OnBarcode_AndroidBarcode_OnBarcode_AndroidBarcode.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnBarcode.AndroidBarcode/OnBarcode.AndroidBarcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OnBarcode.AndroidBarcode/OnBarcode.AndroidBarcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnBarcode.AndroidBarcode/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/OnBarcode.AndroidBarcode/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/attendanceApp/attendanceApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/attendanceApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/lint.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/lint.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/AboutUs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/Attendance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/AttendanceMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/BarcodeGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/CheckAttendanceByID.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/CheckAttendanceBySem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/CheckShortageByID.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/CheckShortageBySem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/CreateSuccess.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/CreateUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/DatabaseIO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/GetAttendance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/GetShortage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/Login.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/ManageClasses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/Signup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/SignupSuccess.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/SplashScreen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/res/drawable-hdpi/register.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/import-summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/import-summary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zBarScannerActivity/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/zBarScannerActivity/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zBarScannerActivity/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zBarScannerActivity/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zBarScannerActivity/src/main/java/com/dm/zbar/android/scanner/CameraPreview.java" beforeDir="false" afterPath="$PROJECT_DIR$/zBarScannerActivity/src/main/java/com/dm/zbar/android/scanner/CameraPreview.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zBarScannerActivity/src/main/java/com/dm/zbar/android/scanner/ZBarConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/zBarScannerActivity/src/main/java/com/dm/zbar/android/scanner/ZBarConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zBarScannerActivity/src/main/java/com/dm/zbar/android/scanner/ZBarScannerActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/zBarScannerActivity/src/main/java/com/dm/zbar/android/scanner/ZBarScannerActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zBarScannerActivity/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zBarScannerActivity/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/AboutUs.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/AboutUs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/Attendance.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/Attendance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/AttendanceMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/AttendanceMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/BarcodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/BarcodeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CheckAttendanceByID.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CheckAttendanceByID.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CheckAttendanceBySem.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CheckAttendanceBySem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CheckShortageByID.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CheckShortageByID.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CheckShortageBySem.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CheckShortageBySem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CreateSuccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CreateSuccess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CreateUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CreateUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/DatabaseIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/DatabaseIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/GetAttendance.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/GetAttendance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/GetShortage.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/GetShortage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/ManageClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/ManageClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/Signup.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/Signup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/SignupSuccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/SignupSuccess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/SplashScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/SplashScreen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zBarScannerActivity/zBarScannerActivity.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zBarScannerActivity/zBarScannerActivity.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/OnBarcode.AndroidBarcode/.gradle/" />
@@ -171,19 +101,42 @@
   <component name="FileEditorManager">
     <leaf />
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>white</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/attendanceApp/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/zBarScannerActivity/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/attendanceApp/build.gradle" />
         <option value="$PROJECT_DIR$/zBarScannerActivity/build.gradle" />
         <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/CreateUser.java" />
         <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/Signup.java" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/AboutUs.java" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/Attendance.java" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/AttendanceMenu.java" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/BarcodeGenerator.java" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CheckAttendanceByID.java" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CheckShortageByID.java" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CreateSuccess.java" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CreateUser.java" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/DatabaseIO.java" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/GetAttendance.java" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/GetShortage.java" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/Login.java" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/MainActivity.java" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/ManageClasses.java" />
         <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/Signup.java" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/SignupSuccess.java" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/SplashScreen.java" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CheckShortageBySem.java" />
+        <option value="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CheckAttendanceBySem.java" />
       </list>
     </option>
   </component>
@@ -199,21 +152,21 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="device.picker.selection" value="bebf9ab90604" />
-    <property name="project.structure.last.edited" value="Suggestions" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="show.migrate.to.gradle.popup" value="false" />
     <property name="sync.plugin.last.upgrade.timestamp" value="1561206458221" />
   </component>
   <component name="PsdUISettings">
-    <option name="MODULE_TAB" value="Properties" />
+    <option name="MODULE_TAB" value="Default Config" />
     <option name="LAST_EDITED_BUILD_TYPE" value="release" />
   </component>
   <component name="RunDashboard">
@@ -307,7 +260,7 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.32980332" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32980332" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
@@ -324,7 +277,7 @@
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50226927" side_tool="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Build" order="9" sideWeight="0.4977307" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Build" order="9" sideWeight="0.4977307" weight="0.32941177" />
       <window_info anchor="bottom" id="Find" order="10" weight="0.32941177" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
@@ -366,43 +319,44 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zBarScannerActivity/src/main/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/CreateUser.java" />
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_create_user.xml" />
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/Signup.java" />
+    <entry file="file://$PROJECT_DIR$/attendanceApp/build/outputs/apk/debug/attendanceApp-debug.apk">
+      <provider selected="true" editor-type-id="apk-viewer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/build/generated/source/buildConfig/debug/com/master/attendanceapp/BuildConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
+        <state relative-caret-position="69">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zBarScannerActivity/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
-      <provider editor-type-id="android-manifest" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/zBarScannerActivity/build/generated/source/buildConfig/androidTest/debug/com/dm/zbar/android/scanner/test/BuildConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="69">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
-      <provider editor-type-id="android-manifest" />
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OnBarcode.AndroidBarcode/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zBarScannerActivity/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/attendanceApp/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
@@ -411,12 +365,181 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/CreateUser.java" />
-    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/res/layout/activity_create_user.xml" />
-    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/Signup.java" />
-    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/Signup.java" />
-    <entry file="file://$PROJECT_DIR$/attendanceApp/build/outputs/apk/debug/attendanceApp-debug.apk">
-      <provider selected="true" editor-type-id="apk-viewer" />
+    <entry file="file://$PROJECT_DIR$/OnBarcode.AndroidBarcode/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zBarScannerActivity/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-145">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-25/android/app/Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2162">
+          <caret line="942" column="19" selection-start-line="942" selection-start-column="19" selection-end-line="942" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/AttendanceMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/BarcodeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2160">
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/Attendance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CreateSuccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/ManageClasses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/Signup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/SignupSuccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/SplashScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/DatabaseIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CreateUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/AboutUs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/build/generated/source/buildConfig/debug/com/kgp/attendanceapp/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/build/generated/source/buildConfig/androidTest/debug/com/kgp/attendanceapp/test/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CheckShortageBySem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1924">
+          <caret line="135" column="49" selection-start-line="135" selection-start-column="49" selection-end-line="135" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/GetAttendance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-383">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/GetShortage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CheckAttendanceBySem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3289">
+          <caret line="154" column="54" selection-start-line="154" selection-start-column="54" selection-end-line="154" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CheckShortageByID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3350">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CheckAttendanceByID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1809">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

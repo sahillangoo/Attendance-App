@@ -1,4 +1,4 @@
-package com.master.attendanceapp;
+package com.kgp.attendanceapp;
 
 import android.app.Activity;
 import android.content.Intent;

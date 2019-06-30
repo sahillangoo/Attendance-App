@@ -1,7 +1,4 @@
-package com.master.attendanceapp;
-
-import java.io.File;
-import java.io.FileOutputStream;
+package com.kgp.attendanceapp;
 
 import android.app.Activity;
 import android.content.ActivityNotFoundException;
@@ -21,6 +18,9 @@ import android.widget.LinearLayout;
 import android.widget.LinearLayout.LayoutParams;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import java.io.File;
+import java.io.FileOutputStream;
 
 public class SignupSuccess extends Activity implements OnClickListener {
 

@@ -1,4 +1,4 @@
-package com.master.attendanceapp;
+package com.kgp.attendanceapp;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
@@ -20,7 +20,10 @@ import android.widget.Toast;
 
 public class CheckShortageBySem extends Activity {
 
-	String name[], mobile[], ids[], attended[];
+	String[] name;
+	String[] mobile;
+	String[] ids;
+	String[] attended;
 	int id, sem, classes;
 	TextView banner1, banner2;
 	float percent;
@@ -133,7 +136,7 @@ public class CheckShortageBySem extends Activity {
 
 					tvID = new TextView(CheckShortageBySem.this);
 					tvID.setText(ids[i]);
-					tvID.setTextColor(Color.WHITE);
+					tvID.setTextColor(Color.BLACK);
 					tvID.setPadding(5, 5, 5, 5);
 					tvID.setGravity(Gravity.CENTER);
 					tvID.setTextSize(18);
@@ -143,7 +146,7 @@ public class CheckShortageBySem extends Activity {
 					tvName = new TextView(CheckShortageBySem.this);
 					tvName.setText(name[i]);
 					tvName.setTypeface(calibri);
-					tvName.setTextColor(Color.WHITE);
+					tvName.setTextColor(Color.BLACK);
 					tvName.setTextSize(18);
 					tvName.setPadding(5, 5, 5, 5);
 					tvName.setGravity(Gravity.CENTER);
@@ -158,7 +161,7 @@ public class CheckShortageBySem extends Activity {
 						tvPercent.setText("" + percent);
 						tvPercent.setTypeface(calibri);
 						tvPercent.setGravity(Gravity.CENTER);
-						tvPercent.setTextColor(Color.WHITE);
+						tvPercent.setTextColor(Color.BLACK);
 						tvPercent.setTextSize(18);
 						tvPercent.setPadding(5, 5, 5, 5);
 						tr.addView(tvPercent);
@@ -167,7 +170,7 @@ public class CheckShortageBySem extends Activity {
 						tvMob.setText(mobile[i]);
 						tvMob.setTypeface(calibri);
 						tvMob.setBackgroundColor(Color.RED);
-						tvMob.setTextColor(Color.WHITE);
+						tvMob.setTextColor(Color.BLACK);
 						tvMob.setPadding(5, 5, 5, 5);
 						tvMob.setTextSize(18);
 						tvMob.setGravity(Gravity.CENTER);

@@ -1,4 +1,4 @@
-package com.master.attendanceapp;
+package com.kgp.attendanceapp;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -61,10 +61,7 @@ public class DatabaseIO
 
 		Cursor c = database.rawQuery(query, null);
 
-		if (c.getCount() > 0)
-			return true;
-
-		return false;
+		return c.getCount() > 0;
 
 	}
 
@@ -102,10 +99,7 @@ public class DatabaseIO
 				+ "='" + un + "' and " + PASS + "='" + pass + "');";
 
 		Cursor c = database.rawQuery(query, null);
-		if (c.getCount() > 0)
-			return true;
-
-		return false;
+		return c.getCount() > 0;
 
 	}
 
