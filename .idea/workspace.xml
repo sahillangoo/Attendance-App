@@ -10,30 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc9b5172-99a2-408d-a3a4-452650b1ccbc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/attendanceApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/attendanceApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/AboutUs.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/AboutUs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/Attendance.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/Attendance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/AttendanceMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/AttendanceMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/BarcodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/BarcodeGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CheckAttendanceByID.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CheckAttendanceByID.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CheckAttendanceBySem.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CheckAttendanceBySem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CheckShortageByID.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CheckShortageByID.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CheckShortageBySem.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CheckShortageBySem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CreateSuccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CreateSuccess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CreateUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/CreateUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/DatabaseIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/DatabaseIO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/GetAttendance.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/GetAttendance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/GetShortage.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/GetShortage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/ManageClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/ManageClasses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/Signup.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/Signup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/SignupSuccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/SignupSuccess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/SplashScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendanceApp/src/main/java/com/kgp/attendanceapp/SplashScreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zBarScannerActivity/zBarScannerActivity.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zBarScannerActivity/zBarScannerActivity.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/OnBarcode.AndroidBarcode/.gradle/" />
     <ignored path="$PROJECT_DIR$/OnBarcode.AndroidBarcode/build/" />
@@ -162,6 +139,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
     <property name="show.migrate.to.gradle.popup" value="false" />
     <property name="sync.plugin.last.upgrade.timestamp" value="1561206458221" />
   </component>
@@ -254,13 +232,21 @@
       <option name="presentableId" value="Default" />
       <updated>1561205648559</updated>
     </task>
+    <task id="LOCAL-00001" summary="final build">
+      <created>1561890269346</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561890269346</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32980332" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.32980332" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
@@ -276,7 +262,7 @@
       <window_info anchor="bottom" id="Terminal" order="5" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50226927" side_tool="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32941177" />
       <window_info anchor="bottom" id="Build" order="9" sideWeight="0.4977307" weight="0.32941177" />
       <window_info anchor="bottom" id="Find" order="10" weight="0.32941177" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
@@ -317,6 +303,17 @@
       <window_info anchor="right" id="Flutter Outline" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
     </layout-to-restore>
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="final build" />
+    <option name="LAST_COMMIT_MESSAGE" value="final build" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/attendanceApp/src/main/java/com/master/attendanceapp/CreateUser.java" />
