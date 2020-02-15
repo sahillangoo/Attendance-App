@@ -54,7 +54,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:gravity="center"
-                android:text="\n\n This App has been Developed in the interest to present as a Major Project for the Completion of Diploma in CSE."
+                android:text="\nThis App has been Developed in the interest to present as a Major Project for the Completion of Diploma in CSE."
                 android:textColor="#000000"
                 android:textSize="18sp" />
 
@@ -76,40 +76,10 @@
                 android:layout_gravity="center"
                 android:layout_marginTop="3dp"
                 android:gravity="center"
-                android:text="Programmer : Syed Kaiser\n"
+                android:text="App Developed and Designed by \nSahil Ahmed and Kaiser World"
                 android:textColor="#000000"
                 android:textSize="18sp" />
 
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:layout_marginTop="3dp"
-                android:gravity="center"
-                android:text="UI/UX : Sahil Ahmed\n"
-                android:textColor="#000000"
-                android:textSize="18sp" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:layout_marginTop="3dp"
-                android:gravity="center"
-                android:text="Tester : Bisma Manzoor \n"
-                android:textColor="#000000"
-                android:textSize="18sp" />
-
-            <TextView
-                android:id="@+id/textView"
-                android:layout_width="match_parent"
-                android:layout_height="88dp"
-                android:layout_gravity="center"
-                android:layout_marginTop="3dp"
-                android:gravity="center"
-                android:text="Documentation : Sana Rafiq and Shaheen Manzoor \n\n\n"
-                android:textColor="#000000"
-                android:textSize="18sp" />
         </LinearLayout>
     </ScrollView>
 
