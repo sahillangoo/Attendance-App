@@ -6,7 +6,7 @@ android {
         }
     }
     compileSdkVersion 25
-    buildToolsVersion '29.0.0'
+    buildToolsVersion '30.0.0 rc1'
     defaultConfig {
         applicationId "com.kgp.attendanceapp"
         minSdkVersion 21
@@ -17,6 +17,10 @@ android {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
+    }
+    compileOptions {
+        sourceCompatibility = 1.8
+        targetCompatibility = 1.8
     }
 }
 
